@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/spike-commander/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/spike-commander/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/spike-commander/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/spike-commander/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [1301-number-of-paths-with-max-score](https://github.com/spike-commander/LeetCode-Practice/tree/master/1301-number-of-paths-with-max-score) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/spike-commander/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/spike-commander/LeetCode-Practice/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
