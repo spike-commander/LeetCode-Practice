@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/spike-commander/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/spike-commander/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/spike-commander/LeetCode-Practice/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/spike-commander/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/spike-commander/LeetCode-Practice/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/spike-commander/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/spike-commander/LeetCode-Practice/tree/master/1137-n-th-tribonacci-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/spike-commander/LeetCode-Practice/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/spike-commander/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/spike-commander/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 ## String
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/spike-commander/LeetCode-Practice/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/spike-commander/LeetCode-Practice/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
