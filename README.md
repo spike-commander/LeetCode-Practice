@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/spike-commander/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/spike-commander/LeetCode-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/spike-commander/LeetCode-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/spike-commander/LeetCode-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/spike-commander/LeetCode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/spike-commander/LeetCode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/spike-commander/LeetCode-Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/spike-commander/LeetCode-Practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/spike-commander/LeetCode-Practice/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/spike-commander/LeetCode-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/spike-commander/LeetCode-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/spike-commander/LeetCode-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/spike-commander/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/spike-commander/LeetCode-Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/spike-commander/LeetCode-Practice/tree/master/1301-number-of-paths-with-max-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/spike-commander/LeetCode-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/spike-commander/LeetCode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/spike-commander/LeetCode-Practice/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/spike-commander/LeetCode-Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
