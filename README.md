@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/spike-commander/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/spike-commander/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/spike-commander/LeetCode-Practice/tree/master/0066-plus-one) |
+| [1260-shift-2d-grid](https://github.com/spike-commander/LeetCode-Practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/spike-commander/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/spike-commander/LeetCode-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/spike-commander/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/spike-commander/LeetCode-Practice/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/spike-commander/LeetCode-Practice/tree/master/1301-number-of-paths-with-max-score) |
 ## Bit Manipulation
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/spike-commander/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/spike-commander/LeetCode-Practice/tree/master/0412-fizz-buzz) |
+| [1260-shift-2d-grid](https://github.com/spike-commander/LeetCode-Practice/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/spike-commander/LeetCode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
