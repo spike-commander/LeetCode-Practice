@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/spike-commander/LeetCode-Practice/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/spike-commander/LeetCode-Practice/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/spike-commander/LeetCode-Practice/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/spike-commander/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/spike-commander/LeetCode-Practice/tree/master/0326-power-of-three) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/spike-commander/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/spike-commander/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/spike-commander/LeetCode-Practice/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/spike-commander/LeetCode-Practice/tree/master/0010-regular-expression-matching) |
 | [0067-add-binary](https://github.com/spike-commander/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/spike-commander/LeetCode-Practice/tree/master/0412-fizz-buzz) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/spike-commander/LeetCode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/spike-commander/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/spike-commander/LeetCode-Practice/tree/master/0010-regular-expression-matching) |
 | [0509-fibonacci-number](https://github.com/spike-commander/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/spike-commander/LeetCode-Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/spike-commander/LeetCode-Practice/tree/master/1301-number-of-paths-with-max-score) |
