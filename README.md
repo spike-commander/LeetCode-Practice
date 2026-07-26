@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/spike-commander/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/spike-commander/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/spike-commander/LeetCode-Practice/tree/master/0066-plus-one) |
+| [0628-maximum-product-of-three-numbers](https://github.com/spike-commander/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/spike-commander/LeetCode-Practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/spike-commander/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/spike-commander/LeetCode-Practice/tree/master/1301-number-of-paths-with-max-score) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/spike-commander/LeetCode-Practice/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/spike-commander/LeetCode-Practice/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/spike-commander/LeetCode-Practice/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/spike-commander/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/spike-commander/LeetCode-Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/spike-commander/LeetCode-Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/spike-commander/LeetCode-Practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/spike-commander/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/spike-commander/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/spike-commander/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/spike-commander/LeetCode-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
