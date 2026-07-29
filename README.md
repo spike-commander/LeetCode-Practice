@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/spike-commander/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/spike-commander/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/spike-commander/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/spike-commander/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/spike-commander/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/spike-commander/LeetCode-Practice/tree/master/0035-search-insert-position) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/spike-commander/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/spike-commander/LeetCode-Practice/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/spike-commander/LeetCode-Practice/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/spike-commander/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/spike-commander/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/spike-commander/LeetCode-Practice/tree/master/0412-fizz-buzz) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/spike-commander/LeetCode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -266,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/spike-commander/LeetCode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/spike-commander/LeetCode-Practice/tree/master/3620-network-recovery-pathways) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/spike-commander/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
