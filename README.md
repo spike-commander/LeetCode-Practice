@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/spike-commander/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/spike-commander/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/spike-commander/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/spike-commander/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/spike-commander/LeetCode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/spike-commander/LeetCode-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/spike-commander/LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/spike-commander/LeetCode-Practice/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/spike-commander/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/spike-commander/LeetCode-Practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/spike-commander/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/spike-commander/LeetCode-Practice/tree/master/0067-add-binary) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/spike-commander/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/spike-commander/LeetCode-Practice/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/spike-commander/LeetCode-Practice/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/spike-commander/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/spike-commander/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/spike-commander/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/spike-commander/LeetCode-Practice/tree/master/0067-add-binary) |
