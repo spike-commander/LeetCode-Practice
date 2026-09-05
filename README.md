@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/spike-commander/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/spike-commander/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/spike-commander/LeetCode-Practice/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/spike-commander/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/spike-commander/LeetCode-Practice/tree/master/0412-fizz-buzz) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/spike-commander/LeetCode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/spike-commander/LeetCode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/spike-commander/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/spike-commander/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/spike-commander/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/spike-commander/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/spike-commander/LeetCode-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/spike-commander/LeetCode-Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/spike-commander/LeetCode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
