@@ -365,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/spike-commander/LeetCode-Practice/tree/master/1510-stone-game-iv) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/spike-commander/LeetCode-Practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
