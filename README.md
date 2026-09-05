@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/spike-commander/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/spike-commander/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/spike-commander/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/spike-commander/LeetCode-Practice/tree/master/0136-single-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/spike-commander/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/spike-commander/LeetCode-Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/spike-commander/LeetCode-Practice/tree/master/1140-stone-game-ii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/spike-commander/LeetCode-Practice/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/spike-commander/LeetCode-Practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/spike-commander/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/spike-commander/LeetCode-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/spike-commander/LeetCode-Practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
