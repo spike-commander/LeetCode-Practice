@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/spike-commander/LeetCode-Practice/tree/master/3620-network-recovery-pathways) |
 | [3731-find-missing-elements](https://github.com/spike-commander/LeetCode-Practice/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/spike-commander/LeetCode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3903-smallest-stable-index-i](https://github.com/spike-commander/LeetCode-Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/spike-commander/LeetCode-Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/spike-commander/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/spike-commander/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/spike-commander/LeetCode-Practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3903-smallest-stable-index-i](https://github.com/spike-commander/LeetCode-Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/spike-commander/LeetCode-Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
 |  |
