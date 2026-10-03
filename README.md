@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/spike-commander/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/spike-commander/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/spike-commander/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/spike-commander/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/spike-commander/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/spike-commander/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/spike-commander/LeetCode-Practice/tree/master/0115-distinct-subsequences) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/spike-commander/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/spike-commander/LeetCode-Practice/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/spike-commander/LeetCode-Practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/spike-commander/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/spike-commander/LeetCode-Practice/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/spike-commander/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/spike-commander/LeetCode-Practice/tree/master/0509-fibonacci-number) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/spike-commander/LeetCode-Practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/spike-commander/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/spike-commander/LeetCode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -387,4 +390,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/spike-commander/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/spike-commander/LeetCode-Practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/spike-commander/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
