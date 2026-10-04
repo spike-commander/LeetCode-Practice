@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/spike-commander/LeetCode-Practice/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/spike-commander/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/spike-commander/LeetCode-Practice/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/spike-commander/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/spike-commander/LeetCode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/spike-commander/LeetCode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/spike-commander/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/spike-commander/LeetCode-Practice/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/spike-commander/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/spike-commander/LeetCode-Practice/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/spike-commander/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/spike-commander/LeetCode-Practice/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/spike-commander/LeetCode-Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/spike-commander/LeetCode-Practice/tree/master/1140-stone-game-ii) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/spike-commander/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/spike-commander/LeetCode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/spike-commander/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/spike-commander/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/spike-commander/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/spike-commander/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/spike-commander/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/spike-commander/LeetCode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -391,4 +395,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/spike-commander/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/spike-commander/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/spike-commander/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/spike-commander/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
