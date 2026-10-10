@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/spike-commander/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/spike-commander/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/spike-commander/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/spike-commander/LeetCode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/spike-commander/LeetCode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/spike-commander/LeetCode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/spike-commander/LeetCode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/spike-commander/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/spike-commander/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/spike-commander/LeetCode-Practice/tree/master/0069-sqrtx) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/spike-commander/LeetCode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/spike-commander/LeetCode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/spike-commander/LeetCode-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/spike-commander/LeetCode-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/spike-commander/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/spike-commander/LeetCode-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/spike-commander/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/spike-commander/LeetCode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/spike-commander/LeetCode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/spike-commander/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/spike-commander/LeetCode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/spike-commander/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/spike-commander/LeetCode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/spike-commander/LeetCode-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/spike-commander/LeetCode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/spike-commander/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/spike-commander/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/spike-commander/LeetCode-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/spike-commander/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/spike-commander/LeetCode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/spike-commander/LeetCode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/spike-commander/LeetCode-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/spike-commander/LeetCode-Practice/tree/master/3620-network-recovery-pathways) |
