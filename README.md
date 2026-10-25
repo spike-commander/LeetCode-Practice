@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/spike-commander/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/spike-commander/LeetCode-Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/spike-commander/LeetCode-Practice/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/spike-commander/LeetCode-Practice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/spike-commander/LeetCode-Practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/spike-commander/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/spike-commander/LeetCode-Practice/tree/master/1301-number-of-paths-with-max-score) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/spike-commander/LeetCode-Practice/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/spike-commander/LeetCode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/spike-commander/LeetCode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/spike-commander/LeetCode-Practice/tree/master/3310-remove-methods-from-project) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/spike-commander/LeetCode-Practice/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/spike-commander/LeetCode-Practice/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/spike-commander/LeetCode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/spike-commander/LeetCode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/spike-commander/LeetCode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/spike-commander/LeetCode-Practice/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/spike-commander/LeetCode-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/spike-commander/LeetCode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/spike-commander/LeetCode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/spike-commander/LeetCode-Practice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/spike-commander/LeetCode-Practice/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/spike-commander/LeetCode-Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/spike-commander/LeetCode-Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
