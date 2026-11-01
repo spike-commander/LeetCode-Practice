@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/spike-commander/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/spike-commander/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/spike-commander/LeetCode-Practice/tree/master/0136-single-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/spike-commander/LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/spike-commander/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/spike-commander/LeetCode-Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/spike-commander/LeetCode-Practice/tree/master/1140-stone-game-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/spike-commander/LeetCode-Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/spike-commander/LeetCode-Practice/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/spike-commander/LeetCode-Practice/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/spike-commander/LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/spike-commander/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/spike-commander/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/spike-commander/LeetCode-Practice/tree/master/0877-stone-game) |
